@@ -5,8 +5,8 @@ import socket , re , datetime , threading , time
 #IRC Information
 SERVER 		= 'irc.freenode.net'
 PORT 		= 6667
-NICKNAME 	= 'ThisISaBoT'
-CHANNEL 	= '#mister'
+NICKNAME 	= 'write nickname here'
+CHANNEL 	= '#write channel here'
 network 	= SERVER.split('.')
 
 #Terminal Colours
